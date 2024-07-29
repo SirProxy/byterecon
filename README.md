@@ -36,6 +36,13 @@ Você pode realizar uma enumeração de diretórios/arquivos de forma simples, c
 
 ![ByteRecon](https://raw.githubusercontent.com/SirProxy/byterecon/main/images/pic002.png)
 
+## Changelog v1.1.0
+- Correction of URLS redirect bug.
+- Adjustments in the test visualization
+- Parameter Addition `--type=<dir|sub|all>`
+- Parameter Addition `--ignore404`
+- Addition of subdomains enumeration
+
 ## Autor
 
 - [SirProxy](https://github.com/SirProxy)
